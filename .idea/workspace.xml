@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e73540-d563-4d74-aaf2-d847d3bfc037" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/ConversionByBranching.java" afterDir="false" />
+    <list default="true" id="33e73540-d563-4d74-aaf2-d847d3bfc037" name="Changes" comment="feat: преобразование ветвлением">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/ConversionByBranching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/Converter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,7 @@
     "Application.Solution.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/geiser98/dev/palindrome_number"
@@ -67,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709611155872</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: преобразование ветвлением">
+      <option name="closed" value="true" />
+      <created>1710039347630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710039347630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,17 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/ConversionByBranching.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="feat: преобразование ветвлением" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: преобразование ветвлением" />
   </component>
 </project>
