@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e73540-d563-4d74-aaf2-d847d3bfc037" name="Changes" comment="feat: преобразование ветвлением">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/ConversionByBranching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/geiser98/leetcode/romantointeger/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="33e73540-d563-4d74-aaf2-d847d3bfc037" name="Changes" comment="feat: menu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +72,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710039347630</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: int to roman">
+      <option name="closed" value="true" />
+      <created>1710103099892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710103099892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: menu">
+      <option name="closed" value="true" />
+      <created>1710121942811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710121942811</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +105,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="feat: преобразование ветвлением" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: преобразование ветвлением" />
+    <MESSAGE value="feat: int to roman" />
+    <MESSAGE value="feat: menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: menu" />
   </component>
 </project>
